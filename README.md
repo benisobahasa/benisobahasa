@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @benisobahasa
+- 👋 Hi, I’m @indah_R
 - 👀 I’m interested in computational linguistics
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on machine learning, natural language processing
