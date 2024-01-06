@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @indah_R
+- 👋 Hi, I’m @Indah-Rohmayani
 - 👀 I’m interested in computational linguistics
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on machine learning, natural language processing
